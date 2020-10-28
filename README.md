@@ -5,17 +5,19 @@ brilliant gild, antique gild, Walnut, Oak, Mahogany, gold silver, ivory wash, wh
 
 # Features Used
 
-<!-- List the 3 optional features, or more if you used more, that you chose to use and where they are incorporated to help mentors find them. -->
+<!--
+1-  mobile first  media queries  scale up to handle larger devices ( change to site’s layout,  re-aligning/moving content areas, changing  menu, resizing content areas )
 
-1. Feature 1 - Where it is used in your site.
-2. Feature 2 - Where it is used in your site.
-3. Feature 3 - Where it is used in your site.
+2- Project is uploaded to your GitHub repository.
 
-# Special Instructions
+3-implement javascript and jquery i used slider .
 
-<!-- Include any special instructions needed to run your project if it is anything more than just opening index.html. -->
-
+4- A navigation menu that expands and collapses properly at desktop and mobile sizes
 
 
+5- Import Bootstrap from and apply bootstrap libraries .
 
-<!-- Need help with markdown? Check out the following site for tips: https://guides.github.com/features/mastering-markdown/. You can delete all these comments afterwards if you want to. -->
+
+
+
+-->
